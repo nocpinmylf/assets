@@ -1,0 +1,11 @@
+{
+    "name": "POCO",
+    "type": "BEP20",
+    "symbol": "POCO",
+    "decimals": 18,
+    "website": "https://pocoland.com/",
+    "description": "Poco is a NFT game with several dimensions: Blockchain, Multiplayer, Social.",
+    "explorer": "https://bscscan.com/token/0x394bBA8F309f3462b31238B3fd04b83F71A98848",
+    "status": "active",
+    "id": "0x394bBA8F309f3462b31238B3fd04b83F71A98848"
+}
